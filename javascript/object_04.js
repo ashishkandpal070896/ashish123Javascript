@@ -7,7 +7,5 @@ const course = {
 //console.log(course.courseInstructor); // This will output: "Ashish"
 //const{courseInstructor:Instructor}=course
 //console.log(Instructor);
-const navbar={
-    
-}
+
  
