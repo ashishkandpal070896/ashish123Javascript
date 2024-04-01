@@ -1,0 +1,43 @@
+
+ if(condtion)
+ {
+      syntax
+ }
+ if is the check the condition and give the condition and true give the result and else using the result false condition
+ ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+ nested if condition 
+ if(conition)
+ {
+    block code  this is correct and give the output 
+ }
+ else{if condition is not correct and else condition executed 
+     
+ }
+ '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+ switch conition
+ Switch (key)
+ {
+    case value:
+    break;
+    default:
+    break;
+ }
+ '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+ javascript is case-sensitive language  and  javascript is object based languaged.
+ ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+ 0 is according the falsy,-0 is according the false, BigInt 0n,Null,undefined,NaN
+ ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+ //turthy values "0",'false'," ",[],function(){}
+ '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+ Console inspect
+ false =='' //true
+ false == 0
+ 0 == '' 
+ && -logical and
+ || - logical OR
+ Nullish Coaliscing- Nullish coalescing is a feature introduced in JavaScript to provide
+  a concise way to handle null or undefined values.
+   It's represented by ?? and is used to provide a default value if a given expression
+    evaluates to null or undefined.
+    Nullish Coaliscing and tenary operator both different
+    
