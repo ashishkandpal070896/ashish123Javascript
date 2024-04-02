@@ -1,0 +1,6 @@
+Array is object and data type
+JS arrays are resizeable and can contain a mix of different datatypes.
+Js arrays are not associative array.
+JavaScript is starting 0 based indexing.
+//Array method 
+myArr.push()
