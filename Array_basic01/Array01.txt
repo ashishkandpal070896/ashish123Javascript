@@ -4,3 +4,5 @@ Js arrays are not associative array.
 JavaScript is starting 0 based indexing.
 //Array method 
 myArr.push()
+unshift is value add the starting index
+shift is value remove the index starting 
