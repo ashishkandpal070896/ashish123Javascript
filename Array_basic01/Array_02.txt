@@ -1,0 +1,4 @@
+Spread syntax (...) and concat  both are same.
+The concat() method of String values concatenates the string arguments to this string and returns a new string.
+
+
