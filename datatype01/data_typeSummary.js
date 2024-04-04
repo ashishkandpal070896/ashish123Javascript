@@ -11,7 +11,7 @@
 // const id=Symbol('123');
 // const anotherId=Symbol('123');
 // console.log(id==anotherId);
-
+//""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 // Type of val :Result
 // undefined : "Undefined"
 // Null:  "Object"
