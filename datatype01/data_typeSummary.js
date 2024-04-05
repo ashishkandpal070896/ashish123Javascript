@@ -27,3 +27,18 @@
 // does not  Implement[[Call]])                 
 //                                     : Implementation-defined except                                
             //                     may not be "undefined", "boolean", "number", or "string".implement [[Call]])
+            // """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""''''
+            //stack(Primitive) and heap(Non Primitive)
+            // let mycollegename="bias";
+            //  anothervalue=mycollegename;
+            //  anothervalue="Chai aur maggi";
+            // console.log(mycollegename);
+            //  console.log(anothervalue);
+            let userone={
+                email:"usser@google.com",
+                Upi:"user@sbi"
+            }
+let userTwo=userone
+userTwo.email="ashishkandpal@google.com"
+console.log(userone.email);
+console.log(userTwo.email);
